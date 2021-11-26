@@ -4,7 +4,7 @@ import 'package:flutter_micro_front_micro_core/micro_core.dart';
 
 import 'pages/home_page.dart';
 
-class FlutterMicroFrontMicroAppHomeResolver implements MicroApp {
+class MicroAppHomeResolver implements MicroApp {
   @override
   String get microAppName => 'micro_app_home';
 
