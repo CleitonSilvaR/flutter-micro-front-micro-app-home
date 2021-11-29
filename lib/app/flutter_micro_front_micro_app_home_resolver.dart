@@ -1,5 +1,3 @@
-import 'dart:js';
-
 import 'package:flutter_micro_front_micro_core/micro_core.dart';
 
 import 'pages/home_page.dart';
